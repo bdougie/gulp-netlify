@@ -3,8 +3,7 @@
 A gulp plugin that helps you upload your site to netlify. Especially useful
 if you have a build and deployment structure already in place.
 
-For example, instead of using netlify's build system which caps you at
-whichever plan you currently are at, why not use CircleCI to do your builds
+For example, why not use CircleCI to do your builds
 and have it deploy via netlify's API.
 
 ## Usage
